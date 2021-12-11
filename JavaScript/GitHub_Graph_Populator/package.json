@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/HeroicHitesh/github-bot#readme",
   "dependencies": {
-    "jsonfile": "^6.0.1",
+    "jsonfile": "^6.1.0",
     "moment": "^2.25.0",
     "package.json": "^2.0.1",
     "random": "^2.2.0",
