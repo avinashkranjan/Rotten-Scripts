@@ -1,12 +1,12 @@
 h5py==2.10.0
 jupyter==1.0.0
-Keras==2.4.3
+Keras==2.6.0rc3
 Keras-Preprocessing==1.1.2
 matplotlib==3.3.3
 numba==0.52.0
-numpy==1.19.5
+numpy==1.22.2
 pandas==1.2.0
-Pillow==8.0.1
+Pillow==9.0.1
 pydot==1.4.1
 PyQt5==5.15.2
 scipy==1.6.0
