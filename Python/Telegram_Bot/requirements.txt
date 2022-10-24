@@ -29,7 +29,7 @@ ipython==7.15.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.17.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml==4.5.1
 markovmeme==0.0.1
 notify2==0.3.1
@@ -37,7 +37,7 @@ opencv-python==4.2.0.34
 parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.2.0
+Pillow==9.0.1
 pprint==0.1
 prettyprinter==0.18.0
 prompt-toolkit==3.0.5
@@ -48,7 +48,7 @@ pyasn1-modules==0.2.8
 PyDictionary==1.5.2
 PyGithub==1.51
 pyjokes==0.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-docx==0.8.10
 python-http-client==3.2.7
 python-telegram-bot==12.7
