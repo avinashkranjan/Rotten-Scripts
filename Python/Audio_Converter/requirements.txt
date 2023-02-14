@@ -1,1 +1,5 @@
 moviepy==1.0.3
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
+imageio>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.21.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=9.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
