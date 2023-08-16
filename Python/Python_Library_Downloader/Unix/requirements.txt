@@ -79,3 +79,4 @@ tensorflow-hub==0.7.0
 tensorflow-metadata==0.14.0s
 tensorflow-probability==0.7
 tf-agents==0.3.0rc0
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
