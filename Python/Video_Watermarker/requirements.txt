@@ -1,4 +1,4 @@
-opencv-python==4.4.0.42
+opencv-python==4.8.1.78.42
 tqdm==4.48.2
 moviepy==1.0.3
 Pillow==7.2.0
