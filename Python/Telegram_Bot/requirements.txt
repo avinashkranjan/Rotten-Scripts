@@ -33,7 +33,7 @@ Jinja2==2.11.2
 lxml==4.5.1
 markovmeme==0.0.1
 notify2==0.3.1
-opencv-python==4.2.0.34
+opencv-python==4.8.1.78.34
 parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
