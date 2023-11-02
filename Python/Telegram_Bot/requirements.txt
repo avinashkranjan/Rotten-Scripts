@@ -58,9 +58,9 @@ secure-smtplib==0.1.1
 sendgrid==6.4.1
 starkbank-ecdsa==1.0.0
 thug-memes==0.1.2
-tornado==6.0.4
+tornado==6.3.3
 traitlets==4.3.3
 uritemplate==3.0.1
 wcwidth==0.2.4
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 wrapt==1.12.1
