@@ -12,7 +12,7 @@
   "dependencies": {
     "chalk": "^4.1.1",
     "prompt-sync": "^4.2.0",
-    "puppeteer": "^9.0.0"
+    "puppeteer": "^18.2.0"
   },
   "author": "Madhav Jha",
   "license": "ISC"
