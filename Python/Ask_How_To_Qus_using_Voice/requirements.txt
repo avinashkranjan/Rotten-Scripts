@@ -3,3 +3,6 @@ pyttsx3==2.90
 PyAudio==0.2.11
 pywikihow==0.5.7
 pip==21.1.2
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests-cache>=0.6.0.dev1 # not directly required, pinned by Snyk to avoid a vulnerability
