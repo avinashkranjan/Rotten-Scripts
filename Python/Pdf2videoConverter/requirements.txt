@@ -3,7 +3,7 @@ chardet==4.0.0
 click==8.0.0
 decorator==4.4.2
 gTTS==2.2.2
-idna==2.10
+idna==3.7
 imageio==2.9.0
 imageio-ffmpeg==0.4.3
 moviepy==1.0.3
