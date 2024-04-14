@@ -1,3 +1,4 @@
 tweepy==3.10.0
 decouple==0.0.7
 requests==2.25.1
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
