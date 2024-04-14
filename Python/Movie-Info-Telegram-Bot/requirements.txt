@@ -10,3 +10,4 @@ six==1.15.0
 soupsieve==2.1
 tornado==6.1
 urllib3==1.26.2
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
