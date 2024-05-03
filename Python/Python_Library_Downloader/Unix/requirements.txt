@@ -70,7 +70,7 @@ nltk==3.4.5
 urlextract==0.13.0
 
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
-tqdm==4.40.0
+tqdm==4.66.3
 ipywidgets==7.5.1
 
 # Other useful TensorFlow-related packages you may want
