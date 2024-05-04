@@ -14,4 +14,4 @@ tensorboard==2.4.1
 tensorboard-plugin-wit==1.7.0
 tensorflow==2.4.1
 tensorflow-estimator==2.4.0
-tqdm==4.56.0
+tqdm==4.66.3
