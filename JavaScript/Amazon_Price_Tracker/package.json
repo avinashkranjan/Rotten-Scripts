@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.6",
-    "node-cron": "^3.0.0",
+    "node-cron": "^3.0.3",
     "nodemailer": "^6.5.0"
   }
 }
