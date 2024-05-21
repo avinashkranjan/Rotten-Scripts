@@ -1,2 +1,2 @@
-requests==2.25.1
+requests==2.32.0
 virtualenv==20.3.0
