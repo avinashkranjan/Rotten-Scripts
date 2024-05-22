@@ -6,5 +6,8 @@ google-auth-oauthlib==0.4.5
 googleapis-common-protos==1.53.0
 httplib2==0.19.1
 pylint==2.9.6
-requests==2.26.0
+requests==2.32.0
 
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
