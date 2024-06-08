@@ -16,7 +16,7 @@ requests==2.22.0
 selenium==3.141.0
 
 ##### Machine Learning packages
-scikit-learn==0.22
+scikit-learn==1.5.0
 
 # Optional: the XGBoost library is only used in the ensemble learning chapter.
 xgboost==0.90
@@ -79,3 +79,5 @@ tensorflow-hub==0.7.0
 tensorflow-metadata==0.14.0s
 tensorflow-probability==0.7
 tf-agents==0.3.0rc0
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
