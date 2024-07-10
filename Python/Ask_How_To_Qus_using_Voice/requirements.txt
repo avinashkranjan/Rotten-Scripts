@@ -3,3 +3,4 @@ pyttsx3==2.90
 PyAudio==0.2.11
 pywikihow==0.5.7
 pip==21.1.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
