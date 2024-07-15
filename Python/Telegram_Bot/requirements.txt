@@ -64,3 +64,4 @@ uritemplate==3.0.1
 wcwidth==0.2.4
 Werkzeug==1.0.1
 wrapt==1.12.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
