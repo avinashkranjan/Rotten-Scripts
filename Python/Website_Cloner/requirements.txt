@@ -3,3 +3,4 @@ cssutils==1.0.2
 urllib-s3==0.0.6
 urllib3==1.24.2
 bs4==0.0.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
