@@ -28,3 +28,4 @@ toml==0.10.2
 uritemplate==3.0.1
 urllib3==1.26.2
 wrapt==1.12.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
