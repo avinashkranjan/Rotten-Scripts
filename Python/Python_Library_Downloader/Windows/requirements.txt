@@ -3,7 +3,7 @@
 ##### Core scientific packages
 jupyter==1.0.0
 matplotlib==3.1.2
-numpy==1.17.3
+numpy==1.22.2
 pandas==0.25.3
 scipy==1.3.1
 seaborn==0.10.1
@@ -46,7 +46,7 @@ tensorflow-estimator==1.15.1
 
 ##### Image manipulation
 imageio==2.6.1
-Pillow==6.2.1
+Pillow==9.0.1
 scikit-image==0.16.2
 graphviz
 pydot==1.4.1
@@ -58,7 +58,7 @@ pyglet==1.3.2
 ##### Extra packages (optional)
 
 # Nice utility to diff Jupyter Notebooks.
-nbdime==1.1.0
+nbdime==1.1.1
 
 # May be useful with Pandas for complex "where" clauses (e.g., Pandas
 # tutorial).
@@ -83,3 +83,4 @@ tensorflow-probability==0.7
 tensorflow-transform==0.15.0
 tfx==0.15.0
 tf-agents==0.3.0rc0
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
