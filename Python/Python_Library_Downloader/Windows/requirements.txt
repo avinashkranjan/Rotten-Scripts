@@ -16,7 +16,7 @@ requests==2.22.0
 selenium==3.141.0
 
 ##### Machine Learning packages
-scikit-learn==0.22
+scikit-learn==0.24.2
 
 # Optional: the XGBoost library is only used in the ensemble learning chapter.
 xgboost==0.90
