@@ -29,7 +29,7 @@ ipython==7.15.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.17.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml==4.5.1
 markovmeme==0.0.1
 notify2==0.3.1
@@ -56,7 +56,7 @@ regex==2020.6.8
 rsa==4.0
 secure-smtplib==0.1.1
 sendgrid==6.4.1
-starkbank-ecdsa==1.0.0
+starkbank-ecdsa==2.0.1
 thug-memes==0.1.2
 tornado==6.0.4
 traitlets==4.3.3
@@ -64,3 +64,4 @@ uritemplate==3.0.1
 wcwidth==0.2.4
 Werkzeug==1.0.1
 wrapt==1.12.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
