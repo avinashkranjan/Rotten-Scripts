@@ -3,23 +3,23 @@
 ##### Core scientific packages
 jupyter==1.0.0
 matplotlib==3.1.2
-numpy==1.17.3
+numpy==1.22.2
 pandas==0.25.3
-scipy==1.3.1
+scipy==1.10.0rc1
 seaborn==0.10.1
 
 # Efficient jobs (caching, parallelism, persistence)
-joblib==0.14.0
+joblib==1.1.1
 
 # Easy http requests
 requests==2.22.0
 selenium==3.141.0
 
 ##### Machine Learning packages
-scikit-learn==0.22
+scikit-learn==1.5.0
 
 # Optional: the XGBoost library is only used in the ensemble learning chapter.
-xgboost==0.90
+xgboost==1.7.0
 
 ##### Deep Learning packages
 
@@ -46,7 +46,7 @@ tensorflow-estimator==1.15.1
 
 ##### Image manipulation
 imageio==2.6.1
-Pillow==6.2.1
+Pillow==10.3.0
 scikit-image==0.16.2
 graphviz
 pydot==1.4.1
@@ -79,3 +79,10 @@ tensorflow-hub==0.7.0
 tensorflow-metadata==0.14.0s
 tensorflow-probability==0.7
 tf-agents==0.3.0rc0
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
