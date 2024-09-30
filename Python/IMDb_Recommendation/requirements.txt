@@ -1,3 +1,4 @@
 beautifulsoup4==4.9.3
 lxml==4.6.2
 requests==2.25.1
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
