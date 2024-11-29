@@ -16,4 +16,4 @@ pytesseract==0.3.7
 requests==2.25.1
 six==1.16.0
 tqdm==4.60.0
-urllib3==1.26.4
+urllib3==1.26.17
