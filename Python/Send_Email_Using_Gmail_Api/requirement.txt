@@ -15,7 +15,7 @@ isort==5.6.4
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 oauthlib==3.1.0
-protobuf==3.14.0
+protobuf==4.25.8
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pylint==2.6.0
@@ -26,5 +26,5 @@ rsa==4.6
 six==1.15.0
 toml==0.10.2
 uritemplate==3.0.1
-urllib3==1.26.2
+urllib3==2.5.0
 wrapt==1.12.1
