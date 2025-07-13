@@ -83,3 +83,5 @@ tensorflow-probability==0.7
 tensorflow-transform==0.15.0
 tfx==0.15.0
 tf-agents==0.3.0rc0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
